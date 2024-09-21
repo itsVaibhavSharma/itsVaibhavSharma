@@ -31,19 +31,15 @@ I enjoy building applications that solve real-world problems, contributing to op
 - Developed a **C++ CLI Student Database Management System** to manage student records efficiently.
 - Released a **TicTacToe Android Game** with multiplayer capabilities and in-app monetization.
 -->
-- **Full-Stack Development**: Proficient in building dynamic, database-driven web applications using **Flask** ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white), **Django** ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white), and **Node.js** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) with **React** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) or **Vue.js** ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white) for the frontend.
 
-- **Databases**: Experienced in working with SQL and NoSQL databases like **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white), **SQLite** ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white), and **MongoDB** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white), ensuring efficient data management and scalability.
+- **Full-Stack Development**: Proficient in developing dynamic web applications utilizing **Flask**, **Django**, and **Node.js** with **React** or **Vue.js** for the frontend.
+- **Database Management**: Experience with SQL and NoSQL databases, including **MySQL**, **SQLite**, and **MongoDB**, facilitating effective data management.
+- **Frontend Technologies**: Skilled in creating responsive user interfaces with **HTML**, **CSS**, **Bootstrap**, and **TailwindCSS**.
+- **Data Analysis & Visualization**: Proficient in data analysis and visualization using **Pandas**, **Numpy**, **Matplotlib**, and **Charts.js**.
+- **Version Control**: Utilization of **Git** and **GitHub** for effective version control and collaboration.
+- **API Development**: Capability in designing and integrating **RESTful APIs**, enhancing communication between client and server.
+- **Machine Learning & AI**: Familiarity with **AI**, **Machine Learning**, and predictive modeling, utilizing libraries like **Scikit-learn** to create intelligent solutions.
 
-- **Frontend Technologies**: Expert in **HTML** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white), **CSS** ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white), **Bootstrap** ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white), and **TailwindCSS** ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) for creating responsive and visually engaging user interfaces.
-
-- **Data Analysis & Visualization**: Skilled in **Pandas** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square) and **Numpy** ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square), as well as data visualization tools like **Matplotlib** ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat-square) and **Charts.js** ![Charts.js](https://img.shields.io/badge/Charts.js-F3B30C?style=flat-square) to provide insightful analytics.
-
-- **Version Control**: Proficient in **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) and **GitHub** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) for version control and collaboration, ensuring smooth development workflows.
-
-- **API Development**: Capable of designing and integrating **RESTful APIs** to enable seamless communication between client and server.
-
-- **Machine Learning & AI**: Familiar with **AI** 🤖, **Machine Learning** 📊, and predictive modeling, using libraries like **Scikit-learn** to build intelligent solutions.
   
 ### 🌱 What I am doing:
 - Interning at **Infosys Springboard** (Batch 1, Oct-Nov 2024).

@@ -196,14 +196,14 @@ coding competition held at MITS, Gwalior.
 
 <h2>💼 Experience</h2>
 <div style="margin: 20px 0; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #f9f9f9;">
-  <h3 style="margin-bottom: 5px; color: #4CAF50;">Intern - Infosys Springboard</h3>
+  <h3 style="margin-bottom: 0px; color: #4CAF50;">Intern - Infosys Springboard</h3>
   <p style="margin: 0; color: #777;">Batch 1, Oct-Nov 2024</p>
-  <p style="margin: 5px 0; font-style: italic; color: #555;">Currently ongoing...</p>
+  <p style="margin: 0px 0; font-style: italic; color: #555;">Currently ongoing...</p>
 </div>
 <div style="margin: 20px 0; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #f9f9f9;">
-  <h3 style="margin-bottom: 5px; color: #2196F3;">Intern - Spark Foundation</h3>
+  <h3 style="margin-bottom: 0px; color: #2196F3;">Intern - Spark Foundation</h3>
   <p style="margin: 0; color: #777;">Web Development & Designing</p>
-  <p style="margin: 5px 0; font-weight: bold; color: #555;">Completed in August 2024</p>
+  <p style="margin: 0px 0; font-weight: bold; color: #555;">Completed in August 2024</p>
 </div>
 
 

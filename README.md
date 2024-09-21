@@ -73,14 +73,36 @@ I enjoy building applications that solve real-world problems, contributing to op
 ### Technologies & Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Jinja2-000000?style=for-the-badge" alt="Jinja2" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/SQLAlchemy-4B8BBE?style=for-the-badge" alt="SQLAlchemy" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge" alt="Hibernate" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge" alt="Matplotlib" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Git/GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git/GitHub" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Charts.js-F3B30C?style=for-the-badge" alt="Charts.js" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6F20?style=for-the-badge" alt="AI & Machine Learning" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/AR%2FVR-FF0000?style=for-the-badge" alt="AR/VR" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge" alt="Express.js" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge" alt="NoSQL" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Data%20Analysis-4B8BBE?style=for-the-badge" alt="Data Analysis" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge" alt="Numpy" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" alt="Pandas" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Spring%20Boot%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot Framework" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/Linux%20(Bash)-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux (Bash)" style="cursor: pointer;">
+<img src="https://img.shields.io/badge/API-4D9F22?style=for-the-badge" alt="API" style="cursor: pointer;">
+
 </p>
 
 ---

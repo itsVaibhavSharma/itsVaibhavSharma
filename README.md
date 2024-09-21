@@ -179,23 +179,31 @@ I enjoy building applications that solve real-world problems, contributing to op
 
 ## 🎓 Certificates:
 
-- [CS50’s Introduction to Programming with Python](https://certificates.cs50.io/fe81723e-d4e4-4fca-a03e-535eff7fc93e.pdf?size=letter)
+- [CS50’s Introduction to Programming with Python from Harvard University](https://certificates.cs50.io/fe81723e-d4e4-4fca-a03e-535eff7fc93e.pdf?size=letter)
 - [Communication Skills - Oxford Home Study Center](https://oxford-home-study-link.com)  
-- **9 Certificates from Infosys Springboard**
-- **Spark Foundation Internship** (Jul 2024)  
-- **Infosys Springboard Internship 5.0** (Oct-Nov 2024)
+- 10 Courses and 1 Certification from **Infosys Springboard**.
+- Certificate of Appreciation (qualified round 2 of 3) issued by IETE for qualifying round 2 of CODATHON 2.0, inter-college 
+coding competition held at MITS, Gwalior.
 
 ---
 
 ## 🏆 Achievements:
 
-- Selected for **Smart India Hackathon 2024** national round.
-- Achieved **Highest SGPA** in the department in Semester 1 (9.37) and Semester 2 (9.63).
+- Led a team of 6 for **Smart India Hackathon** Internal round and successfully shortlisted for the national round 1, on Sep 07, 2024.
+- Achieved **Highest SGPA** in the department in Semester 1 (9.37) and in the college in Semester 2 (9.63).
 
 ---
 
-## 💼 Experience:
+<h2>💼 Experience</h2>
+<div style="margin: 20px 0; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #f9f9f9;">
+  <h3 style="margin-bottom: 5px; color: #4CAF50;">Intern - Infosys Springboard</h3>
+  <p style="margin: 0; color: #777;">Batch 1, Oct-Nov 2024</p>
+  <p style="margin: 5px 0; font-style: italic; color: #555;">Currently ongoing...</p>
+</div>
+<div style="margin: 20px 0; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #f9f9f9;">
+  <h3 style="margin-bottom: 5px; color: #2196F3;">Intern - Spark Foundation</h3>
+  <p style="margin: 0; color: #777;">Web Development & Designing</p>
+  <p style="margin: 5px 0; font-weight: bold; color: #555;">Completed in August 2024</p>
+</div>
 
-- **Intern - Infosys Springboard (Batch 1, Oct-Nov 2024)**
-- **Intern - Spark Foundation Web Development & Designing**
 

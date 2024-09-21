@@ -11,6 +11,8 @@ itsVaibhavSharma/itsVaibhavSharma is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
 # Hi, I'm Vaibhav Sharma 👋
 
 <p align="center">
@@ -62,24 +64,24 @@ I enjoy building applications that solve real-world problems, contributing to op
 
 ### Languages:
 <p align="center">
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)  
-  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
 ### Technologies & Tools:
 <p align="center">
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
 ---
@@ -88,12 +90,12 @@ I enjoy building applications that solve real-world problems, contributing to op
 
 <div align="center">
 
-<table>
+<table style="padding: 10px; border-spacing: 15px;">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding: 20px;">
       <img src="https://via.placeholder.com/300x150" alt="Sponsor-Influencer Coordination Platform" width="300px"><br>
       <strong>Sponsor-Influencer Coordination Platform</strong><br>
-      <p>Technologies: Python, Flask, SQLite, Jinja2</p>
+      <p style="padding: 10px;">Technologies: Python, Flask, SQLite, Jinja2</p>
       <a href="https://project-live-link.com">
         <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
       </a>
@@ -101,10 +103,10 @@ I enjoy building applications that solve real-world problems, contributing to op
         <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding: 20px;">
       <img src="https://via.placeholder.com/300x150" alt="Basic Banking Application" width="300px"><br>
       <strong>Basic Banking Application</strong><br>
-      <p>Technologies: MySQL, Node.js, Express, Bootstrap</p>
+      <p style="padding: 10px;">Technologies: MySQL, Node.js, Express, Bootstrap</p>
       <a href="https://banking-app-live-link.com">
         <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
       </a>
@@ -114,10 +116,10 @@ I enjoy building applications that solve real-world problems, contributing to op
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding: 20px;">
       <img src="https://via.placeholder.com/300x150" alt="Student Database Management System" width="300px"><br>
       <strong>Student Database Management System</strong><br>
-      <p>Technologies: C++, Vectors, Linked Lists, File I/O</p>
+      <p style="padding: 10px;">Technologies: C++, Vectors, Linked Lists, File I/O</p>
       <a href="https://student-dbms-live-link.com">
         <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
       </a>
@@ -125,10 +127,10 @@ I enjoy building applications that solve real-world problems, contributing to op
         <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding: 20px;">
       <img src="https://via.placeholder.com/300x150" alt="TicTacToe Android Game" width="300px"><br>
       <strong>TicTacToe Android Game</strong><br>
-      <p>Technologies: Java, Android Studio, Firebase</p>
+      <p style="padding: 10px;">Technologies: Java, Android Studio, Firebase</p>
       <a href="https://tictactoe-live-link.com">
         <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
       </a>

@@ -14,10 +14,10 @@ You can click the Preview link to take a look at your changes.
 # Hi, I'm Vaibhav Sharma 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="GIF" width="600px">
+  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" alt="Developer GIF" width="600px">
 </p>
 
-Welcome to my GitHub portfolio! I am a passionate **full-stack developer**, with a strong background in **Artificial Intelligence** and **Data Science**. Currently, I am pursuing my B.Tech at **Madhav Institute of Technology & Science** and B.S from **Indian Institute of Technology, Madras**. 
+Welcome to my GitHub portfolio! I am a passionate **full-stack developer**, with a strong background in **Artificial Intelligence** and **Data Science**. Currently, I am pursuing my B.Tech at **Madhav Institute of Technology & Science** and B.S from **Indian Institute of Technology, Madras**.
 
 I enjoy building applications that solve real-world problems, contributing to open-source, and continuously learning cutting-edge technologies.
 
@@ -26,15 +26,15 @@ I enjoy building applications that solve real-world problems, contributing to op
 - Built a **Basic Banking Application** ensuring 100% prevention of negative balances.
 - Created a **C++ CLI Student Database Management System** used to manage student records.
 - Released a **TicTacToe Android Game** with multiplayer capabilities and in-app monetization.
-  
+
 ### 🌱 What I am doing:
 - Interning at **Infosys Springboard** (Batch 1, Oct-Nov 2024).
 - Working on open-source projects and hackathons.
-  
+
 ### 🚀 What I will do:
 - Continue contributing to cutting-edge projects in AI, ML, and full-stack web development.
 - Expand my knowledge in AR/VR and machine learning frameworks.
-  
+
 ---
 
 ## 🔗 Contact and Social Media:
@@ -80,72 +80,53 @@ I enjoy building applications that solve real-world problems, contributing to op
 
 ## 📂 Projects:
 
-### Machine Learning:
 <div align="center">
-  
-<a href="https://github.com/itsVaibhavSharma/ML-Project1">
-  <img src="https://via.placeholder.com/300x150" alt="ML Project 1" width="300px">
-</a>
-<a href="https://github.com/itsVaibhavSharma/ML-Project2">
-  <img src="https://via.placeholder.com/300x150" alt="ML Project 2" width="300px">
-</a>
-<a href="https://github.com/itsVaibhavSharma/ML-Project3">
-  <img src="https://via.placeholder.com/300x150" alt="ML Project 3" width="300px">
-</a>
+
+### 1. **Sponsor-Influencer Coordination Platform**
+
+<img src="https://via.placeholder.com/300x150" alt="Sponsor-Influencer Coordination Platform" width="300px">
+
+An efficient platform for managing campaigns and ad requests.  
+**Technologies**: Python, Flask, SQLite, Jinja2
+
+[![View Live](https://img.shields.io/badge/View%20Live-009688?style=flat-square)](https://project-live-link.com) 
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/itsVaibhavSharma/IESCP)
+
+### 2. **Basic Banking Application**
+
+<img src="https://via.placeholder.com/300x150" alt="Basic Banking Application" width="300px">
+
+A web-based banking application ensuring seamless transactions.  
+**Technologies**: MySQL, Node.js, Express, Bootstrap
+
+[![View Live](https://img.shields.io/badge/View%20Live-009688?style=flat-square)](https://banking-app-live-link.com) 
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/itsVaibhavSharma/Basic-Banking-Application)
 
 </div>
 
-### Web Development:
 <div align="center">
 
-<a href="https://github.com/itsVaibhavSharma/IESCP">
-  <img src="https://via.placeholder.com/300x150" alt="Sponsor-Influencer Coordination" width="300px">
-</a>
-<a href="https://github.com/itsVaibhavSharma/Basic-Banking-Application">
-  <img src="https://via.placeholder.com/300x150" alt="Basic Banking Application" width="300px">
-</a>
-<a href="https://github.com/itsVaibhavSharma/Student-Database-Management-System">
-  <img src="https://via.placeholder.com/300x150" alt="Student DBMS" width="300px">
-</a>
+### 3. **Student Database Management System**
+
+<img src="https://via.placeholder.com/300x150" alt="Student Database Management System" width="300px">
+
+A C++ CLI system for managing student records.  
+**Technologies**: C++, Vectors, Linked Lists, File I/O
+
+[![View Live](https://img.shields.io/badge/View%20Live-009688?style=flat-square)](https://student-dbms-live-link.com) 
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/itsVaibhavSharma/Student-Database-Management-System)
+
+### 4. **TicTacToe Android Game**
+
+<img src="https://via.placeholder.com/300x150" alt="TicTacToe Android Game" width="300px">
+
+Dynamic Android game with multiplayer and AI modes.  
+**Technologies**: Java, Android Studio, Firebase
+
+[![View Live](https://img.shields.io/badge/View%20Live-009688?style=flat-square)](https://tictactoe-live-link.com) 
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/itsVaibhavSharma/TicTacToe)
 
 </div>
-
-### App Development:
-<div align="center">
-
-<a href="https://github.com/itsVaibhavSharma/TicTacToe">
-  <img src="https://via.placeholder.com/300x150" alt="TicTacToe Android App" width="300px">
-</a>
-<a href="https://github.com/itsVaibhavSharma/App-Project2">
-  <img src="https://via.placeholder.com/300x150" alt="App Project 2" width="300px">
-</a>
-<a href="https://github.com/itsVaibhavSharma/App-Project3">
-  <img src="https://via.placeholder.com/300x150" alt="App Project 3" width="300px">
-</a>
-
-</div>
-
----
-
-### **Project Details:**
-
-#### Sponsor-Influencer Coordination Platform  
-An efficient platform for managing campaigns and ad requests.
-- **Technologies**: Python, Flask, SQLite, Jinja2  
-- [![View Live](https://img.shields.io/badge/View%20Live-009688?style=flat-square)](https://project-live-link.com) 
-  [![View Code](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/itsVaibhavSharma/IESCP)
-
-#### Basic Banking Application  
-A web-based banking application ensuring seamless transactions.
-- **Technologies**: MySQL, Node.js, Express, Bootstrap  
-- [![View Live](https://img.shields.io/badge/View%20Live-009688?style=flat-square)](https://banking-app-live-link.com) 
-  [![View Code](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/itsVaibhavSharma/Basic-Banking-Application)
-
-#### TicTacToe Android Application  
-Dynamic Android game with multiplayer and AI modes.
-- **Technologies**: Java, Android Studio, Firebase  
-- [![View Live](https://img.shields.io/badge/View%20Live-009688?style=flat-square)](https://tictactoe-live-link.com) 
-  [![View Code](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/itsVaibhavSharma/TicTacToe)
 
 ---
 

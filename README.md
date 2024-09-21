@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
 # Hi, I'm Vaibhav Sharma 👋
 
 <p align="center">
@@ -44,16 +43,16 @@ I enjoy building applications that solve real-world problems, contributing to op
 ## 🔗 Contact and Social Media:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/itsVaibhavSharma" target="_blank">
+  <a href="https://www.linkedin.com/in/itsVaibhavSharma" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/itsVaibhavSharma" target="_blank">
+  <a href="https://github.com/itsVaibhavSharma" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://leetcode.com/u/itsVaibhavSharma/" target="_blank">
+  <a href="https://leetcode.com/u/itsVaibhavSharma/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
-  <a href="mailto:itsVaibhavSharma007@gmail.com">
+  <a href="mailto:itsVaibhavSharma007@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -64,24 +63,24 @@ I enjoy building applications that solve real-world problems, contributing to op
 
 ### Languages:
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" style="cursor: pointer;">
 </p>
 
 ### Technologies & Tools:
 <p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="cursor: pointer;">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="cursor: pointer;">
 </p>
 
 ---
@@ -90,53 +89,61 @@ I enjoy building applications that solve real-world problems, contributing to op
 
 <div align="center">
 
-<table style="padding: 10px; border-spacing: 15px;">
+<table style="padding: 20px; border-spacing: 30px;">
   <tr>
     <td align="center" width="50%" style="padding: 20px;">
-      <img src="https://via.placeholder.com/300x150" alt="Sponsor-Influencer Coordination Platform" width="300px"><br>
-      <strong>Sponsor-Influencer Coordination Platform</strong><br>
-      <p style="padding: 10px;">Technologies: Python, Flask, SQLite, Jinja2</p>
-      <a href="https://project-live-link.com">
-        <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-      </a>
-      <a href="https://github.com/itsVaibhavSharma/IESCP">
-        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-      </a>
+      <div style="position: relative;">
+        <img src="https://via.placeholder.com/300x150" alt="Sponsor-Influencer Coordination Platform" width="300px" style="transition: transform 0.3s; cursor: pointer;">
+        <strong>Sponsor-Influencer Coordination Platform</strong><br>
+        <p style="padding: 10px;">Technologies: Python, Flask, SQLite, Jinja2</p>
+        <a href="https://project-live-link.com">
+          <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
+        </a>
+        <a href="https://github.com/itsVaibhavSharma/IESCP">
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+        </a>
+      </div>
     </td>
     <td align="center" width="50%" style="padding: 20px;">
-      <img src="https://via.placeholder.com/300x150" alt="Basic Banking Application" width="300px"><br>
-      <strong>Basic Banking Application</strong><br>
-      <p style="padding: 10px;">Technologies: MySQL, Node.js, Express, Bootstrap</p>
-      <a href="https://banking-app-live-link.com">
-        <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-      </a>
-      <a href="https://github.com/itsVaibhavSharma/Basic-Banking-Application">
-        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-      </a>
+      <div style="position: relative;">
+        <img src="https://via.placeholder.com/300x150" alt="Basic Banking Application" width="300px" style="transition: transform 0.3s; cursor: pointer;">
+        <strong>Basic Banking Application</strong><br>
+        <p style="padding: 10px;">Technologies: MySQL, Node.js, Express, Bootstrap</p>
+        <a href="https://banking-app-live-link.com">
+          <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
+        </a>
+        <a href="https://github.com/itsVaibhavSharma/Basic-Banking-Application">
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+        </a>
+      </div>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" style="padding: 20px;">
-      <img src="https://via.placeholder.com/300x150" alt="Student Database Management System" width="300px"><br>
-      <strong>Student Database Management System</strong><br>
-      <p style="padding: 10px;">Technologies: C++, Vectors, Linked Lists, File I/O</p>
-      <a href="https://student-dbms-live-link.com">
-        <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-      </a>
-      <a href="https://github.com/itsVaibhavSharma/Student-Database-Management-System">
-        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-      </a>
+      <div style="position: relative;">
+        <img src="https://via.placeholder.com/300x150" alt="Student Database Management System" width="300px" style="transition: transform 0.3s; cursor: pointer;">
+        <strong>Student Database Management System</strong><br>
+        <p style="padding: 10px;">Technologies: C++, Vectors, Linked Lists, File I/O</p>
+        <a href="https://student-dbms-live-link.com">
+          <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
+        </a>
+        <a href="https://github.com/itsVaibhavSharma/Student-Database-Management-System">
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+        </a>
+      </div>
     </td>
     <td align="center" width="50%" style="padding: 20px;">
-      <img src="https://via.placeholder.com/300x150" alt="TicTacToe Android Game" width="300px"><br>
-      <strong>TicTacToe Android Game</strong><br>
-      <p style="padding: 10px;">Technologies: Java, Android Studio, Firebase</p>
-      <a href="https://tictactoe-live-link.com">
-        <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-      </a>
-      <a href="https://github.com/itsVaibhavSharma/TicTacToe">
-        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-      </a>
+      <div style="position: relative;">
+        <img src="https://via.placeholder.com/300x150" alt="TicTacToe Android Game" width="300px" style="transition: transform 0.3s; cursor: pointer;">
+        <strong>TicTacToe Android Game</strong><br>
+        <p style="padding: 10px;">Technologies: Java, Android Studio, Firebase</p>
+        <a href="https://tictactoe-live-link.com">
+          <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
+        </a>
+        <a href="https://github.com/itsVaibhavSharma/TicTacToe">
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+        </a>
+      </div>
     </td>
   </tr>
 </table>
@@ -149,6 +156,7 @@ I enjoy building applications that solve real-world problems, contributing to op
 
 - [CS50’s Introduction to Programming with Python](https://certificates.cs50.io/fe81723e-d4e4-4fca-a03e-535eff7fc93e.pdf?size=letter)
 - [Communication Skills - Oxford Home Study Center](https://oxford-home-study-link.com)  
+- **9 Certificates from Infosys Springboard**
 - **Spark Foundation Internship** (Jul 2024)  
 - **Infosys Springboard Internship 5.0** (Oct-Nov 2024)
 
@@ -165,3 +173,4 @@ I enjoy building applications that solve real-world problems, contributing to op
 
 - **Intern - Infosys Springboard (Batch 1, Oct-Nov 2024)**
 - **Intern - Spark Foundation Web Development & Designing**
+

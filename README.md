@@ -105,47 +105,49 @@ I enjoy building applications that solve real-world problems, contributing to op
       </div>
     </td>
 <td align="center" width="50%" style="padding: 20px;">
-      <div style="position: relative;">
-        <img src="https://via.placeholder.com/300x150" alt="Basic Banking Application" width="300px" style="transition: transform 0.3s; cursor: pointer;"><br>
-        <strong>Basic Banking Application</strong><br>
-        <p style="padding: 10px;">Technologies: MySQL, Node.js, Express, Bootstrap</p>
-        <a href="https://banking-app-live-link.com">
-          <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-        </a>
-        <a href="https://github.com/itsVaibhavSharma/Basic-Banking-Application">
-          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-        </a>
-      </div>
-    </td>
+  <div style="position: relative;">
+    <img src="https://via.placeholder.com/300x150" alt="Basic Banking Application" width="300px" style="transition: transform 0.3s; cursor: pointer;"><br>
+    <strong>Basic Banking Application</strong><br>
+    <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: MySQL, Node.js, Express, Bootstrap</p>
+    <a href="https://banking-app-live-link.com">
+      <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
+    </a>
+    <a href="https://github.com/itsVaibhavSharma/Basic-Banking-Application">
+      <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+    </a>
+  </div>
+</td>
+
     
   </tr>
   <tr>
     <td align="center" width="50%" style="padding: 20px;">
-      <div style="position: relative;">
-        <img src="https://via.placeholder.com/300x150" alt="Student Database Management System" width="300px" style="transition: transform 0.3s; cursor: pointer;"><br>
-        <strong>Student Database Management System</strong><br>
-        <p style="padding: 10px;">Technologies: C++, Vectors, Linked Lists, File I/O</p>
-        <a href="https://student-dbms-live-link.com">
-          <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-        </a>
-        <a href="https://github.com/itsVaibhavSharma/Student-Database-Management-System">
-          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-        </a>
-      </div>
-    </td>
-    <td align="center" width="50%" style="padding: 20px;">
-      <div style="position: relative;">
-        <img src="https://via.placeholder.com/300x150" alt="TicTacToe Android Game" width="300px" style="transition: transform 0.3s; cursor: pointer;"><br>
-        <strong>TicTacToe Android Game</strong><br>
-        <p style="padding: 10px;">Technologies: Java, Android Studio, Firebase</p>
-        <a href="https://tictactoe-live-link.com">
-          <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-        </a>
-        <a href="https://github.com/itsVaibhavSharma/TicTacToe">
-          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-        </a>
-      </div>
-    </td>
+  <div style="position: relative;">
+    <img src="https://via.placeholder.com/300x150" alt="Student Database Management System" width="300px" style="transition: transform 0.3s; cursor: pointer;"><br>
+    <strong>Student Database Management System</strong><br>
+    <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: C++, Vectors, Linked Lists, File I/O</p>
+    <a href="https://student-dbms-live-link.com">
+      <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
+    </a>
+    <a href="https://github.com/itsVaibhavSharma/Student-Database-Management-System">
+      <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+    </a>
+  </div>
+</td>
+<td align="center" width="50%" style="padding: 20px;">
+  <div style="position: relative;">
+    <img src="https://via.placeholder.com/300x150" alt="TicTacToe Android Game" width="300px" style="transition: transform 0.3s; cursor: pointer;"><br>
+    <strong>TicTacToe Android Game</strong><br>
+    <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: Java, Android Studio, Firebase</p>
+    <a href="https://tictactoe-live-link.com">
+      <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
+    </a>
+    <a href="https://github.com/itsVaibhavSharma/TicTacToe">
+      <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+    </a>
+  </div>
+</td>
+
   </tr>
 </table>
 

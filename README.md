@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 # Hi, I'm Vaibhav Sharma 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" alt="Developer GIF" width="600px">
+  <img src="" alt="Developer GIF" width="600px">
 </p>
 
 Welcome to my GitHub portfolio! I am a passionate **full-stack developer**, with a strong background in **Artificial Intelligence** and **Data Science**. Currently, I am pursuing my B.Tech at **Madhav Institute of Technology & Science** and B.S from **Indian Institute of Technology, Madras**.

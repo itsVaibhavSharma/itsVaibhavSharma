@@ -9,7 +9,7 @@
 
 itsVaibhavSharma/itsVaibhavSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 
 # Hi, I'm Vaibhav Sharma 👋
@@ -31,7 +31,7 @@ I enjoy building applications that solve real-world problems, contributing to op
 - Created a **Basic Banking Application** ensuring 100% prevention of negative balances.
 - Developed a **C++ CLI Student Database Management System** to manage student records efficiently.
 - Released a **TicTacToe Android Game** with multiplayer capabilities and in-app monetization.
--->
+
 
 - **Full-Stack Development**: Proficient in developing dynamic web applications utilizing **Flask**, **Django**, and **Node.js** with **React** or **Vue.js** for the frontend.
 - **Database Management**: Experience with SQL and NoSQL databases, including **MySQL**, **SQLite**, and **MongoDB**, facilitating effective data management.
@@ -219,3 +219,4 @@ coding competition held at MITS, Gwalior.
   <br>Web Development & Designing
   <br>Completed in August 2024
 </div>
+--->

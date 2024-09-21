@@ -210,12 +210,12 @@ coding competition held at MITS, Gwalior.
 
 <div style="margin: 10px 0; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #f5f5f5; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
   <h3 style="margin: 0; font-size: 1.5em; color: #4CAF50;">Intern - Infosys Springboard</h3>
-  <p style="margin: -5px 0 3px 0; color: #777; line-height: 1.3;">Batch 1, Oct-Nov 2024</p>
-  <p style="margin: -5px 0 3px 0; font-style: italic; color: #555; line-height: 1.3;">Currently ongoing...</p>
+  Batch 1, Oct-Nov 2024
+  Currently ongoing...
 </div>
 
 <div style="margin: 10px 0; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #f5f5f5; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
   <h3 style="margin: 0; font-size: 1.5em; color: #2196F3;">Intern - Spark Foundation</h3>
-  <p style="margin: -5px 0 3px 0; color: #777; line-height: 1.3;">Web Development & Designing</p>
-  <p style="margin: -5px 0 3px 0; font-weight: bold; color: #555; line-height: 1.3;">Completed in August 2024</p>
+  Web Development & Designing
+  Completed in August 2024
 </div>

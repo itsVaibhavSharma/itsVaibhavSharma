@@ -93,7 +93,7 @@ I enjoy building applications that solve real-world problems, contributing to op
   <tr>
     <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
-        <img src="https://via.placeholder.com/300x150" alt="Sponsor-Influencer Coordination Platform" width="300px" style="transition: transform 0.3s; cursor: pointer;">
+        <img src="https://via.placeholder.com/300x150" alt="Sponsor-Influencer Coordination Platform" width="300px" style="transition: transform 0.3s; cursor: pointer;"><br>
         <strong>Sponsor-Influencer Coordination Platform</strong><br>
         <p style="padding: 10px;">Technologies: Python, Flask, SQLite, Jinja2</p>
         <a href="https://project-live-link.com">
@@ -106,7 +106,7 @@ I enjoy building applications that solve real-world problems, contributing to op
     </td>
     <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
-        <img src="https://via.placeholder.com/300x150" alt="Basic Banking Application" width="300px" style="transition: transform 0.3s; cursor: pointer;">
+        <img src="https://via.placeholder.com/300x150" alt="Basic Banking Application" width="300px" style="transition: transform 0.3s; cursor: pointer;"><br>
         <strong>Basic Banking Application</strong><br>
         <p style="padding: 10px;">Technologies: MySQL, Node.js, Express, Bootstrap</p>
         <a href="https://banking-app-live-link.com">
@@ -121,7 +121,7 @@ I enjoy building applications that solve real-world problems, contributing to op
   <tr>
     <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
-        <img src="https://via.placeholder.com/300x150" alt="Student Database Management System" width="300px" style="transition: transform 0.3s; cursor: pointer;">
+        <img src="https://via.placeholder.com/300x150" alt="Student Database Management System" width="300px" style="transition: transform 0.3s; cursor: pointer;"><br>
         <strong>Student Database Management System</strong><br>
         <p style="padding: 10px;">Technologies: C++, Vectors, Linked Lists, File I/O</p>
         <a href="https://student-dbms-live-link.com">
@@ -134,7 +134,7 @@ I enjoy building applications that solve real-world problems, contributing to op
     </td>
     <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
-        <img src="https://via.placeholder.com/300x150" alt="TicTacToe Android Game" width="300px" style="transition: transform 0.3s; cursor: pointer;">
+        <img src="https://via.placeholder.com/300x150" alt="TicTacToe Android Game" width="300px" style="transition: transform 0.3s; cursor: pointer;"><br>
         <strong>TicTacToe Android Game</strong><br>
         <p style="padding: 10px;">Technologies: Java, Android Studio, Firebase</p>
         <a href="https://tictactoe-live-link.com">

@@ -93,7 +93,7 @@ I enjoy building applications that solve real-world problems, contributing to op
     <tr>
       <!-- First Project -->
       <td style="width: 50%; text-align: center; padding: 20px;">
-        <img src="files/iescp.png" alt="Sponsor-Influencer Coordination Platform" style="margin-top: 5px; min-width: 300px;"><br>
+        <img src="files/iescp.png" alt="Sponsor-Influencer Coordination Platform" style="margin-top: 5px; min-width: 300px;width: 300px; height: 180px;"><br>
         <strong>Sponsor-Influencer Coordination Platform</strong><br>
         <p style="min-height: 40px;">Technologies: Python, Flask, SQLite, Jinja2</p>
         <div>

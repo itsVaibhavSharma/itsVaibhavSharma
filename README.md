@@ -120,7 +120,7 @@ I enjoy building applications that solve real-world problems, contributing to op
       <div style="position: relative;">
         <img src="files/sdms.jpg" alt="Student Database Management System" width="300px" style="margin-top:5px; transition: transform 0.3s; cursor: pointer;"><br>
         <strong>Student Database Management System</strong><br>
-        <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: C++, Vectors, Linked Lists, File I/O</p>
+        <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: C++, Vectors, Linked Lists ,<br> File I/O</p>
         <div style="display: flex; justify-content: center;">
           <a href="https://github.com/itsVaibhavSharma/Student-Database-Management-System">
             <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">

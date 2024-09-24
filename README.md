@@ -107,7 +107,7 @@ I enjoy building applications that solve real-world problems, contributing to op
 
   <!-- Second Project -->
   <td style="width: 50%; text-align: center; padding: 20px;">
-        <img src="files/tictactoe.jpg" alt="TicTacToe Android Game" style="margin-top: 5px; max-width: 100%; height: auto;"><br>
+        <img src="files/tictactoe.png" alt="TicTacToe Android Game" style="margin-top: 5px; max-width: 100%; height: auto;"><br>
         <strong>TicTacToe Android Game</strong><br>
         <p style="min-height: 40px;">Technologies: Java, Android Studio, Firebase</p>
         <div style="display: flex; justify-content: center;">

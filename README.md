@@ -94,7 +94,7 @@ I enjoy building applications that solve real-world problems, contributing to op
 
   <!-- First Project -->
   <div style="width: 45%; margin: 20px; text-align: center;">
-    <img src="FILES/iescp.png" alt="Sponsor-Influencer Coordination Platform" width="300px" height="150px" style="margin-top: 5px;"><br>
+    <img src="files/iescp.png" alt="Sponsor-Influencer Coordination Platform" width="300px" height="150px" style="margin-top: 5px;"><br>
     <strong>Sponsor-Influencer Coordination Platform</strong><br>
     <p style="min-height: 40px;">Technologies: Python, Flask, SQLite, Jinja2</p>
     <a href="https://iescp.vercel.app">

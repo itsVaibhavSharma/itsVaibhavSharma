@@ -88,19 +88,18 @@ I enjoy building applications that solve real-world problems, contributing to op
 ## 📂 Projects:
 
 <div align="center">
-
   <table style="width: 100%; max-width: 800px; margin: auto;">
     <tr>
       <!-- First Project -->
       <td style="width: 50%; text-align: center; padding: 20px;">
-        <img src="files/iescp.png" alt="Sponsor-Influencer Coordination Platform" style="margin-top: 5px; min-width: 300px;width: 300px; height: 180px;"><br>
+        <img src="files/iescp.png" alt="Sponsor-Influencer Coordination Platform" style="margin-top: 5px; max-width: 100%; height: auto;"><br>
         <strong>Sponsor-Influencer Coordination Platform</strong><br>
         <p style="min-height: 40px;">Technologies: Python, Flask, SQLite, Jinja2</p>
-        <div>
+        <div style="display: flex; justify-content: center;">
           <a href="https://iescp.vercel.app">
             <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
           </a>
-          <a href="https://github.com/itsVaibhavSharma/IESCP">
+          <a href="https://github.com/itsVaibhavSharma/IESCP" style="margin-left: 10px;">
             <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
           </a>
         </div>
@@ -108,10 +107,10 @@ I enjoy building applications that solve real-world problems, contributing to op
 
   <!-- Second Project -->
   <td style="width: 50%; text-align: center; padding: 20px;">
-        <img src="files/tictactoe.jpg" alt="TicTacToe Android Game" style="margin-top: 5px; min-width: 300px;width: 300px; height: 180px;"><br>
+        <img src="files/tictactoe.jpg" alt="TicTacToe Android Game" style="margin-top: 5px; max-width: 100%; height: auto;"><br>
         <strong>TicTacToe Android Game</strong><br>
         <p style="min-height: 40px;">Technologies: Java, Android Studio, Firebase</p>
-        <div>
+        <div style="display: flex; justify-content: center;">
           <a href="https://github.com/itsVaibhavSharma/TicTacToe">
             <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
           </a>
@@ -122,10 +121,10 @@ I enjoy building applications that solve real-world problems, contributing to op
   <tr>
       <!-- Third Project -->
       <td style="width: 50%; text-align: center; padding: 20px;">
-        <img src="files/sdms.jpg" alt="Student Database Management System" style="margin-top: 5px; min-width: 300px;width: 300px; height: 180px;"><br>
+        <img src="files/sdms.jpg" alt="Student Database Management System" style="margin-top: 5px; max-width: 100%; height: auto;"><br>
         <strong>Student Database Management System</strong><br>
         <p style="min-height: 40px;">Technologies: C++, Vectors, Linked Lists, File I/O</p>
-        <div>
+        <div style="display: flex; justify-content: center;">
           <a href="https://github.com/itsVaibhavSharma/Student-Database-Management-System">
             <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
           </a>
@@ -134,14 +133,14 @@ I enjoy building applications that solve real-world problems, contributing to op
 
   <!-- Fourth Project -->
   <td style="width: 50%; text-align: center; padding: 20px;">
-        <img src="files/bba.png" alt="Basic Banking Application" style="margin-top: 5px; min-width: 300px;width: 300px; height: 180px;"><br>
+        <img src="files/bba.png" alt="Basic Banking Application" style="margin-top: 5px; max-width: 100%; height: auto;"><br>
         <strong>Basic Banking Application</strong><br>
         <p style="min-height: 40px;">Technologies: MySQL, Node.js, Express, Bootstrap</p>
-        <div>
+        <div style="display: flex; justify-content: center;">
           <a href="https://basic-banking-application-mocha.vercel.app/">
             <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
           </a>
-          <a href="https://github.com/itsVaibhavSharma/Phone-Directory-Management-System">
+          <a href="https://github.com/itsVaibhavSharma/Phone-Directory-Management-System" style="margin-left: 10px;">
             <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
           </a>
         </div>
@@ -151,10 +150,10 @@ I enjoy building applications that solve real-world problems, contributing to op
   <tr>
       <!-- Fifth Project -->
       <td style="width: 50%; text-align: center; padding: 20px;">
-        <img src="files/TO-DO LIST.png" alt="To-Do List Management System" style=" margin-top: 5px; min-width: 300px;width: 300px; height: 180px;"><br>
+        <img src="files/TO-DO LIST.png" alt="To-Do List Management System" style="margin-top: 5px; max-width: 100%; height: auto;"><br>
         <strong>To-Do List Management System</strong><br>
         <p style="min-height: 40px;">Technologies: C++, Vectors, Linked Lists, File I/O</p>
-        <div>
+        <div style="display: flex; justify-content: center;">
           <a href="https://github.com/itsVaibhavSharma/To-Do-List-Management-System">
             <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
           </a>
@@ -163,10 +162,10 @@ I enjoy building applications that solve real-world problems, contributing to op
 
   <!-- Sixth Project -->
   <td style="width: 50%; text-align: center; padding: 20px;">
-        <img src="files/PHONEdir.png" alt="Phone Directory Management System" style="margin-top: 5px; min-width: 300px;width: 300px; height: 180px;"><br>
+        <img src="files/PHONEdir.png" alt="Phone Directory Management System" style="margin-top: 5px; max-width: 100%; height: auto;"><br>
         <strong>Phone Directory Management System</strong><br>
         <p style="min-height: 40px;">Technologies: C++, Linked List, File I/O, CSV</p>
-        <div>
+        <div style="display: flex; justify-content: center;">
           <a href="https://github.com/itsVaibhavSharma/Phone-Directory-Management-System">
             <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
           </a>
@@ -174,7 +173,6 @@ I enjoy building applications that solve real-world problems, contributing to op
       </td>
     </tr>
   </table>
-
 </div>
 
 ---

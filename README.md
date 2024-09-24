@@ -89,95 +89,79 @@ I enjoy building applications that solve real-world problems, contributing to op
 
 <div align="center">
 
-<!-- First Row -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+<table>
+  <tr>
+    <!-- First Project -->
+    <td style="width: 50%; text-align: center;">
+      <img src="files/iescp.png" alt="Sponsor-Influencer Coordination Platform" width="300px" height="150px" style="margin-top: 5px;"><br>
+      <strong>Sponsor-Influencer Coordination Platform</strong><br>
+      <p style="min-height: 40px;">Technologies: Python, Flask, SQLite, Jinja2</p>
+      <a href="https://iescp.vercel.app">
+        <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
+      </a>
+      <a href="https://github.com/itsVaibhavSharma/IESCP">
+        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+      </a>
+    </td>
 
-  <!-- First Project -->
-  <div style="width: 45%; margin: 12px; text-align: center;">
-    <img src="files/iescp.png" alt="Sponsor-Influencer Coordination Platform" width="300px" height="150px" style="margin-top: 5px;"><br>
-    <strong>Sponsor-Influencer Coordination Platform</strong><br>
-    <p style="min-height: 40px;">Technologies: Python, Flask, SQLite, Jinja2</p>
-    <a href="https://iescp.vercel.app">
-      <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-    </a>
-    <a href="https://github.com/itsVaibhavSharma/IESCP">
-      <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-    </a>
-  </div><div style="width: 45%; margin: 12px; text-align: center;">
-    <img src="files/tictactoe.jpg" alt="TicTacToe Android Game" width="300px" height="150px" style="margin-top: 5px;"><br>
-    <strong>TicTacToe Android Game</strong><br>
-    <p style="min-height: 40px;">Technologies: Java, Android Studio, Firebase</p>
-    <!-- <a href="https://tictactoe-live-link.com">
-      <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-    </a> -->
-    <a href="https://github.com/itsVaibhavSharma/TicTacToe">
-      <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-    </a>
-  </div>
+  <!-- Second Project -->
+  <td style="width: 50%; text-align: center;">
+      <img src="files/tictactoe.jpg" alt="TicTacToe Android Game" width="300px" height="150px" style="margin-top: 5px;"><br>
+      <strong>TicTacToe Android Game</strong><br>
+      <p style="min-height: 40px;">Technologies: Java, Android Studio, Firebase</p>
+      <a href="https://github.com/itsVaibhavSharma/TicTacToe">
+        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+      </a>
+    </td>
+  </tr>
 
-</div>
-
-<!-- Second Row -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-
-  <!-- Third Project -->
-  <div style="width: 45%; margin: 12px; text-align: center;">
-    <img src="files/sdms.jpg" alt="Student Database Management System" width="300px" height="150px" style="margin-top: 5px;"><br>
-    <strong>Student Database Management System</strong><br>
-    <p style="min-height: 40px;">Technologies: C++, Vectors, Linked Lists, File I/O</p>
-    <!-- <a href="https://student-dbms-live-link.com">
-      <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-    </a> -->
-    <a href="https://github.com/itsVaibhavSharma/Student-Database-Management-System">
-      <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-    </a>
-  </div>
+  <tr>
+    <!-- Third Project -->
+    <td style="width: 50%; text-align: center;">
+      <img src="files/sdms.jpg" alt="Student Database Management System" width="300px" height="150px" style="margin-top: 5px;"><br>
+      <strong>Student Database Management System</strong><br>
+      <p style="min-height: 40px;">Technologies: C++, Vectors, Linked Lists, File I/O</p>
+      <a href="https://github.com/itsVaibhavSharma/Student-Database-Management-System">
+        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+      </a>
+    </td>
 
   <!-- Fourth Project -->
-  <div style="width: 45%; margin: 12px; text-align: center;">
-    <img src="files/bba.png" alt="Basic Banking Application" width="300px" height="150px" style="margin-top: 5px;"><br>
-    <strong>Basic Banking Application</strong><br>
-    <p style="min-height: 40px;">Technologies: MySQL, Node.js, Express, Bootstrap</p>
-    <a href="https://basic-banking-application-mocha.vercel.app/">
-      <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-    </a>
-    <a href="https://github.com/itsVaibhavSharma/Phone-Directory-Management-System">
-      <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-    </a>
-  </div>
+  <td style="width: 50%; text-align: center;">
+      <img src="files/bba.png" alt="Basic Banking Application" width="300px" height="150px" style="margin-top: 5px;"><br>
+      <strong>Basic Banking Application</strong><br>
+      <p style="min-height: 40px;">Technologies: MySQL, Node.js, Express, Bootstrap</p>
+      <a href="https://basic-banking-application-mocha.vercel.app/">
+        <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
+      </a>
+      <a href="https://github.com/itsVaibhavSharma/Phone-Directory-Management-System">
+        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+      </a>
+    </td>
+  </tr>
 
-</div>
+  <tr>
+    <!-- Fifth Project -->
+    <td style="width: 50%; text-align: center;">
+      <img src="files/TO-DO LIST.png" alt="To-Do List Management System" width="300px" height="150px" style="margin-top: 5px;"><br>
+      <strong>To-Do List Management System</strong><br>
+      <p style="min-height: 40px;">Technologies: C++, Vectors, Linked Lists, File I/O</p>
+      <a href="https://github.com/itsVaibhavSharma/To-Do-List-Management-System">
+        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+      </a>
+    </td>
 
-<!-- Third Row -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-
-  <!-- fifth Project -->
-  <div style="width: 45%; margin: 12px; text-align: center;">
-    <img src="files/TO-DO LIST.png" alt="Student Database Management System" width="300px" height="150px" style="margin-top: 5px;"><br>
-    <strong>To-Do List Management System</strong><br>
-    <p style="min-height: 40px;">Technologies: C++, Vectors, Linked Lists, File I/O</p>
-    <!-- <a href="https://student-dbms-live-link.com">
-      <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-    </a> -->
-    <a href="https://github.com/itsVaibhavSharma/To-Do-List-Management-System">
-      <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-    </a>
-  </div>
-
-  <!-- sixth Project -->
-  <div style="width: 45%; margin: 12px; text-align: center;">
-    <img src="files/PHONEdir.png" alt="Basic Banking Application" width="300px" height="150px" style="margin-top: 5px;"><br>
-    <strong>Phone Directory Management System</strong><br>
-    <p style="min-height: 40px;">Technologies: C++, Linked List, File I/O, CSV</p>
-    <!-- <a href="https://basic-banking-application-mocha.vercel.app/">
-      <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-    </a> -->
-    <a href="https://github.com/itsVaibhavSharma/Phone-Directory-Management-System">
-      <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-    </a>
-  </div>
-
-</div>
+  <!-- Sixth Project -->
+  <td style="width: 50%; text-align: center;">
+    <img src="files/PHONEdir.png" alt="Phone Directory Management System" width="300px" height="150px" style="margin-top: 5px;"><br>
+      <strong>Phone Directory Management System</strong><br>
+      <p style="min-height: 40px;">Technologies: C++, Linked List, File I/O, CSV</p>
+      <a href="https://github.com/itsVaibhavSharma/Phone-Directory-Management-System">
+        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 

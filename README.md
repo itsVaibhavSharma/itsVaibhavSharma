@@ -93,7 +93,7 @@ I enjoy building applications that solve real-world problems, contributing to op
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
 
   <!-- First Project -->
-  <div style="width: 45%; margin: 20px; text-align: center;">
+  <div style="width: 45%; margin: 12px; text-align: center;">
     <img src="files/iescp.png" alt="Sponsor-Influencer Coordination Platform" width="300px" height="150px" style="margin-top: 5px;"><br>
     <strong>Sponsor-Influencer Coordination Platform</strong><br>
     <p style="min-height: 40px;">Technologies: Python, Flask, SQLite, Jinja2</p>
@@ -106,7 +106,7 @@ I enjoy building applications that solve real-world problems, contributing to op
   </div>
 
   <!-- Second Project -->
-  <div style="width: 45%; margin: 20px; text-align: center;">
+  <div style="width: 45%; margin: 12px; text-align: center;">
     <img src="files/tictactoe.jpg" alt="TicTacToe Android Game" width="300px" height="150px" style="margin-top: 5px;"><br>
     <strong>TicTacToe Android Game</strong><br>
     <p style="min-height: 40px;">Technologies: Java, Android Studio, Firebase</p>
@@ -124,7 +124,7 @@ I enjoy building applications that solve real-world problems, contributing to op
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
 
   <!-- Third Project -->
-  <div style="width: 45%; margin: 20px; text-align: center;">
+  <div style="width: 45%; margin: 12px; text-align: center;">
     <img src="files/sdms.jpg" alt="Student Database Management System" width="300px" height="150px" style="margin-top: 5px;"><br>
     <strong>Student Database Management System</strong><br>
     <p style="min-height: 40px;">Technologies: C++, Vectors, Linked Lists, File I/O</p>
@@ -137,7 +137,7 @@ I enjoy building applications that solve real-world problems, contributing to op
   </div>
 
   <!-- Fourth Project -->
-  <div style="width: 45%; margin: 20px; text-align: center;">
+  <div style="width: 45%; margin: 12px; text-align: center;">
     <img src="files/bba.png" alt="Basic Banking Application" width="300px" height="150px" style="margin-top: 5px;"><br>
     <strong>Basic Banking Application</strong><br>
     <p style="min-height: 40px;">Technologies: MySQL, Node.js, Express, Bootstrap</p>
@@ -155,7 +155,7 @@ I enjoy building applications that solve real-world problems, contributing to op
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
 
   <!-- fifth Project -->
-  <div style="width: 45%; margin: 20px; text-align: center;">
+  <div style="width: 45%; margin: 12px; text-align: center;">
     <img src="files/TO-DO LIST.png" alt="Student Database Management System" width="300px" height="150px" style="margin-top: 5px;"><br>
     <strong>To-Do List Management System</strong><br>
     <p style="min-height: 40px;">Technologies: C++, Vectors, Linked Lists, File I/O</p>
@@ -168,7 +168,7 @@ I enjoy building applications that solve real-world problems, contributing to op
   </div>
 
   <!-- sixth Project -->
-  <div style="width: 45%; margin: 20px; text-align: center;">
+  <div style="width: 45%; margin: 12px; text-align: center;">
     <img src="files/PHONEdir.png" alt="Basic Banking Application" width="300px" height="150px" style="margin-top: 5px;"><br>
     <strong>Phone Directory Management System</strong><br>
     <p style="min-height: 40px;">Technologies: C++, Linked List, File I/O, CSV</p>

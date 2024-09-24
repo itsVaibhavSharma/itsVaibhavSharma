@@ -103,10 +103,7 @@ I enjoy building applications that solve real-world problems, contributing to op
     <a href="https://github.com/itsVaibhavSharma/IESCP">
       <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
     </a>
-  </div>
-
-  <!-- Second Project -->
-  <div style="width: 45%; margin: 12px; text-align: center;">
+  </div><div style="width: 45%; margin: 12px; text-align: center;">
     <img src="files/tictactoe.jpg" alt="TicTacToe Android Game" width="300px" height="150px" style="margin-top: 5px;"><br>
     <strong>TicTacToe Android Game</strong><br>
     <p style="min-height: 40px;">Technologies: Java, Android Studio, Firebase</p>

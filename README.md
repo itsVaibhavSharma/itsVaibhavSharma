@@ -95,7 +95,7 @@ I enjoy building applications that solve real-world problems, contributing to op
       <div style="position: relative;">
         <img src="files/iescp.png" alt="Sponsor-Influencer Coordination Platform" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
         <strong>Sponsor-Influencer Coordination Platform</strong><br>
-        <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: Python, Flask, SQLite, Jinja2</p><br>
+        <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: Python, Flask, SQLite, Jinja2</p>
         <a href="https://iescp.vercel.app">
           <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
         </a>

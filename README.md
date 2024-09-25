@@ -1,5 +1,5 @@
 # Hi, I'm Vaibhav Sharma 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+%26+Data+Science+Enthusiast;Machine+Learning+Specialist;Full-Stack+Web+Developer;Android+Appication+Developer;Proficient+in+Java%2C+Python%2C+C%2B%2B%2C+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+%26+Data+Science+Enthusiast;Machine+Learning+Specialist;Full-Stack+Web+Developer;Android+Application+Developer;Proficient+in+Java%2C+Python%2C+C%2B%2B%2C+JavaScript)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Developer GIF" width="600px">
 </p>

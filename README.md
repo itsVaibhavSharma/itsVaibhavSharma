@@ -1,9 +1,7 @@
 # Hi, I'm Vaibhav Sharma 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+%26+Data+Science+Enthusiast;Machine+Learning+Specialist;Full-Stack+Web+Developer;Android+Appication+Developer;Proficient+in+Java%2C+Python%2C+C%2B%2B%2C+JavaScript)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Developer GIF" width="600px">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+%26+Data+Science+Enthusiast;Machine+Learning+Specialist;Full-Stack+Web+Developer;Android+Appication+Developer;Proficient+in+Java%2C+Python%2C+C%2B%2B%2C+JavaScript)](https://git.io/typing-svg)
 </p>
 
 Welcome to my GitHub portfolio! I am a passionate **full-stack developer** with expertise in **Artificial Intelligence**, **Data Science**, and **Web Development**. I am currently pursuing B.Tech at **Madhav Institute of Technology & Science** and B.S at **Indian Institute of Technology, Madras**.

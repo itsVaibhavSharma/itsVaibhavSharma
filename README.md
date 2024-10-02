@@ -21,6 +21,7 @@ I enjoy building applications that solve real-world problems, contributing to op
 
 ### 🌱 What I am doing:
 
+- Interning at **Infosys Springboard** (Batch 1, Sep-Nov 2024).
 - Working on building projects and hackathons.
 
 ### 🚀 What I will do:
@@ -194,6 +195,13 @@ I enjoy building applications that solve real-world problems, contributing to op
 ---
 
 <h2 style="font-size: 2em; margin-bottom: 15px; color: #333;">💼 Experience</h2>
+
+<div style="margin: 10px 0; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #f5f5f5; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+  <strong>Intern - Infosys Springboard</strong>
+  <br>Batch 1, Sep-Nov 2024
+  <br>Currently ongoing...
+</div>
+<br>
 
 <div style="margin: 10px 0; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #f5f5f5; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
   <strong>Intern - The Spark Foundation</strong>

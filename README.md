@@ -94,6 +94,21 @@ I enjoy building applications that solve real-world problems, contributing to op
   <tr>
     <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
+        <img src="files/spm.png" alt="Sports Performance Monitoring" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
+        <strong>Sports Performance Monitoring</strong><br>
+        <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: Java Springboot, React.js, MySQL</p>
+        <!-- <a href="https://iescp.vercel.app">
+          <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
+        </a> -->
+        <a href="https://github.com/itsVaibhavSharma/Sports-Performance-Monitoring">
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+        </a>
+      </div>
+    </td>
+    
+
+  <td align="center" width="50%" style="padding: 20px;">
+      <div style="position: relative;">
         <img src="files/iescp.png" alt="Sponsor-Influencer Coordination Platform" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
         <strong>Sponsor-Influencer Coordination Platform</strong><br>
         <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: Python, Flask, SQLite, Jinja2</p>
@@ -105,6 +120,8 @@ I enjoy building applications that solve real-world problems, contributing to op
         </a>
       </div>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
         <img src="files/tictactoe.png" alt="TicTacToe Android Game" width="300px" style="margin-top:5px; transition: transform 0.3s; cursor: pointer;"><br>
@@ -115,9 +132,8 @@ I enjoy building applications that solve real-world problems, contributing to op
         </a>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="padding: 20px;">
+  
+  <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
         <img src="files/sdms.jpg" alt="Student Database Management System" width="300px" style="margin-top:5px; transition: transform 0.3s; cursor: pointer;"><br>
         <strong>Student Database Management System</strong><br>
@@ -129,6 +145,8 @@ I enjoy building applications that solve real-world problems, contributing to op
         </div>
       </div>
     </td>
+    </tr>
+  <tr>
     <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
         <img src="files/bba.png" alt="Basic Banking Application" width="300px" style="margin-top:5px; transition: transform 0.3s; cursor: pointer;"><br>
@@ -144,9 +162,8 @@ I enjoy building applications that solve real-world problems, contributing to op
         </div>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="padding: 20px;">
+  
+  <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
         <img src="files/TO-DO LIST.png" alt="To-Do List Management System" width="300px" style="margin-top:5px; transition: transform 0.3s; cursor: pointer;"><br>
         <strong>To-Do List Management System</strong><br>
@@ -158,6 +175,8 @@ I enjoy building applications that solve real-world problems, contributing to op
         </div>
       </div>
     </td>
+    </tr>
+  <tr>
     <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
         <img src="files/PHONEdir.png" alt="Phone Directory Management System" width="300px" style="margin-top:5px; transition: transform 0.3s; cursor: pointer;"><br>
@@ -198,8 +217,8 @@ I enjoy building applications that solve real-world problems, contributing to op
 
 <div style="margin: 10px 0; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #f5f5f5; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
   <strong>Intern - Infosys Springboard</strong>
-  <br>Batch 1, Sep-Nov 2024
-  <br>Currently ongoing...
+  <br>Java Technology Intern, Oct-Dec 2024
+  <br>Completed in Dec 2024
 </div>
 <br>
 

@@ -156,7 +156,7 @@ I enjoy building applications that solve real-world problems, contributing to op
           <a href="https://basic-banking-application-mocha.vercel.app/">
             <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
           </a>
-          <a href="https://github.com/itsVaibhavSharma/Phone-Directory-Management-System" style="margin-left: 10px;">
+          <a href="https://github.com/itsVaibhavSharma/Basic-Banking-Application" style="margin-left: 10px;">
             <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
           </a>
         </div>

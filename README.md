@@ -94,7 +94,7 @@ I enjoy building applications that solve real-world problems, contributing to op
   <tr>
   <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
-        <img src="files/FRAS.png" alt="FRAS" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
+        <img src="files/cptrack.png" alt="FRAS" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
         <strong>CPTrack: Competitive Programming Tracker</strong><br>
         <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: Flask (Python), React & MySQL</p>
         <a href="https://cptrack.mitsgwalior.in">

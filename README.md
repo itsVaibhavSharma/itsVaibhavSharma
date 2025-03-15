@@ -92,6 +92,19 @@ I enjoy building applications that solve real-world problems, contributing to op
 
 <table style="padding: 20px; border-spacing: 30px;">
   <tr>
+  <td align="center" width="50%" style="padding: 20px;">
+      <div style="position: relative;">
+        <img src="files/FRAS.png" alt="FRAS" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
+        <strong>CPTrack: Competitive Programming Tracker</strong><br>
+        <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: Flask (Python), React & MySQL</p>
+        <a href="https://cptrack.mitsgwalior.in">
+          <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
+        </a>
+        <!-- <a href="https://github.com/itsVaibhavSharma/face-recognition-attendance-system">
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+        </a> -->
+      </div>
+    </td>
     <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
         <img src="files/FRAS.png" alt="FRAS" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
@@ -105,7 +118,8 @@ I enjoy building applications that solve real-world problems, contributing to op
         </a>
       </div>
     </td>
-
+</tr>
+<tr>
   <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
         <img src="files/spm.png" alt="Sports Performance Monitoring" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
@@ -119,8 +133,7 @@ I enjoy building applications that solve real-world problems, contributing to op
         </a>
       </div>
     </td>
-      </tr>
-  <tr>
+     
 
   <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
@@ -135,7 +148,8 @@ I enjoy building applications that solve real-world problems, contributing to op
         </a>
       </div>
     </td>
-
+</tr>
+<tr>
   <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
         <img src="files/tictactoe.png" alt="TicTacToe Android Game" width="300px" style="margin-top:5px; transition: transform 0.3s; cursor: pointer;"><br>
@@ -146,8 +160,7 @@ I enjoy building applications that solve real-world problems, contributing to op
         </a>
       </div>
     </td>
-  </tr>
-  <tr>
+ 
   <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
         <img src="files/sdms.jpg" alt="Student Database Management System" width="300px" style="margin-top:5px; transition: transform 0.3s; cursor: pointer;"><br>
@@ -160,7 +173,8 @@ I enjoy building applications that solve real-world problems, contributing to op
         </div>
       </div>
     </td>
-    
+    </tr>
+<tr>
   <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
         <img src="files/bba.png" alt="Basic Banking Application" width="300px" style="margin-top:5px; transition: transform 0.3s; cursor: pointer;"><br>
@@ -176,8 +190,7 @@ I enjoy building applications that solve real-world problems, contributing to op
         </div>
       </div>
     </td>
-   </tr>
-  <tr>
+  
   <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
         <img src="files/TO-DO LIST.png" alt="To-Do List Management System" width="300px" style="margin-top:5px; transition: transform 0.3s; cursor: pointer;"><br>
@@ -190,7 +203,8 @@ I enjoy building applications that solve real-world problems, contributing to op
         </div>
       </div>
     </td>
-   
+   </tr>
+<tr>
   <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
         <img src="files/PHONEdir.png" alt="Phone Directory Management System" width="300px" style="margin-top:5px; transition: transform 0.3s; cursor: pointer;"><br>
